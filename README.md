@@ -1,2 +1,4 @@
 # reality-capture-robotic-arm
-[![Everything Is AWESOME]](https://www.youtube.com/watch?v=cHbcjjZUCno "Everything Is AWESOME")
+
+[![Presented Link]](https://www.youtube.com/watch?v=5VYcO4UtTcA "")
+[![Robotic arm doing task]](https://www.youtube.com/watch?v=cHbcjjZUCno "")
